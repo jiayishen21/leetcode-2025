@@ -26,3 +26,7 @@ Catalan recurrence
 https://neetcode.io/problems/generate-parentheses?list=neetcode150
 stack/generate-parentheses
 
+Largest rectangle in histogram. Tricky to identify to use stack. Tricky to figure out how to use stack.
+https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode150
+stack/largest-rectangle-histogram/py
+
