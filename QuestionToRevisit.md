@@ -18,3 +18,11 @@ Trapping rain water. Tricky to identify that it's a two pointers
 https://neetcode.io/problems/trapping-rain-water?list=neetcode150
 two-pointers/trapping-rain-water.py
 
+A stack question in a weird sense
+https://neetcode.io/problems/minimum-stack?list=neetcode150
+stack/min-stack.py
+
+Catalan recurrence
+https://neetcode.io/problems/generate-parentheses?list=neetcode150
+stack/generate-parentheses
+
