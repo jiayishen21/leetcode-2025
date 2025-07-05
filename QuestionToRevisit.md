@@ -30,3 +30,8 @@ Largest rectangle in histogram. Tricky to identify to use stack. Tricky to figur
 https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode150
 stack/largest-rectangle-histogram/py
 
+Binary search. Let's not choke and actually remember what binary search is
+https://neetcode.io/problems/binary-search?list=neetcode150
+binary-search/binary-search.py
+
+
