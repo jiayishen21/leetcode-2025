@@ -34,4 +34,6 @@ Binary search. Let's not choke and actually remember what binary search is
 https://neetcode.io/problems/binary-search?list=neetcode150
 binary-search/binary-search.py
 
-
+Max sliding window. Solve without BTree.
+https://neetcode.io/problems/sliding-window-maximum?list=neetcode150
+sliding-window/max-sliding-window.cpp
