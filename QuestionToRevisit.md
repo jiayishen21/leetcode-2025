@@ -46,4 +46,6 @@ LRU cache. Solve with stdlib.
 https://neetcode.io/problems/lru-cache?list=neetcode150
 linkedlist/lru-cache.cpp
 
-
+Is valid BST. Straightforward question that has some trickiness in implemention
+binary-tree/is-valid-bst.cpp
+https://neetcode.io/problems/valid-binary-search-tree?list=neetcode150
