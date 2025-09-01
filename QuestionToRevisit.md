@@ -37,3 +37,13 @@ binary-search/binary-search.py
 Max sliding window. Solve without BTree.
 https://neetcode.io/problems/sliding-window-maximum?list=neetcode150
 sliding-window/max-sliding-window.cpp
+
+Find duplicate. Solve without constraint of modifying array.
+https://neetcode.io/problems/find-duplicate-integer?list=neetcode150
+linked-list/find-dupe.cppo
+
+LRU cache. Solve with stdlib.
+https://neetcode.io/problems/lru-cache?list=neetcode150
+linkedlist/lru-cache.cpp
+
+
