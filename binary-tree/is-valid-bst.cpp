@@ -29,8 +29,6 @@ public:
         if (!cur)
             return true;
 
-        cout << cur->val << " " << minVal << " " << maxVal << endl;
-
         if (minBounded && cur->val <= minVal)
         {
             return false;
