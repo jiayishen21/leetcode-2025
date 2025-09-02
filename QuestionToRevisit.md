@@ -49,3 +49,9 @@ linkedlist/lru-cache.cpp
 Is valid BST. Straightforward question that has some trickiness in implemention
 binary-tree/is-valid-bst.cpp
 https://neetcode.io/problems/valid-binary-search-tree?list=neetcode150
+
+Build tree from preorder and inorder. Implementation practice.
+binary-tree/build-tree.cpp
+https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal?list=neetcode150
+
+
