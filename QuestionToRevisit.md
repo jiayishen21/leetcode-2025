@@ -54,4 +54,10 @@ Build tree from preorder and inorder. Implementation practice.
 binary-tree/build-tree.cpp
 https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal?list=neetcode150
 
+Basic backtracking.
+backtracking/subsets.cpp
+https://neetcode.io/problems/subsets?list=neetcode150
 
+Permutations. More basic backtracking
+backtracking/permutations.cpp
+https://neetcode.io/problems/permutations?list=neetcode150
