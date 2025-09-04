@@ -61,3 +61,7 @@ https://neetcode.io/problems/subsets?list=neetcode150
 Permutations. More basic backtracking
 backtracking/permutations.cpp
 https://neetcode.io/problems/permutations?list=neetcode150
+
+Palindrome partition.
+backtracking/palindrome-partition.cpp
+https://neetcode.io/problems/palindrome-partitioning?list=neetcode150
