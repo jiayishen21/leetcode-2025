@@ -1,1 +1,3 @@
 Leetcode practice for the next recruiting cycle...
+
+<img src="./00-assets/thousand-yard-stare.jpg">
