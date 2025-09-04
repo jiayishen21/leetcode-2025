@@ -65,3 +65,7 @@ https://neetcode.io/problems/permutations?list=neetcode150
 Palindrome partition.
 backtracking/palindrome-partition.cpp
 https://neetcode.io/problems/palindrome-partitioning?list=neetcode150
+
+Min cost climbing stairs. Easy DP.
+dp-1d/min-climbing-stairs.cpp
+https://neetcode.io/problems/min-cost-climbing-stairs?list=neetcode150
