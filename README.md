@@ -2,7 +2,7 @@ Leetcode practice for the next recruiting cycle...
 
 Compile CPP using
 ```sh
-g++ main.cpp -o main && ./main
+g++ valid-bst.cpp -o main && ./main
 ```
 Inside WSL. To go into WSL, just type WSL in terminal or search for WSL.
 
