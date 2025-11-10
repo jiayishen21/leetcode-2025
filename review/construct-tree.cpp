@@ -1,4 +1,5 @@
 #include <vector>
+#include <iostream>
 
 using namespace std;
 
@@ -58,3 +59,39 @@ public:
         return t;
     }
 };
+
+int main()
+{
+    vector<int> preorder{1, 2, 3, 4, 5};
+    vector<int> inorder{2, 3, 1, 4, 5};
+
+    Solution s;
+    TreeNode *t = s.buildTree(preorder, inorder);
+
+    // Print tree layer by layer
+    vector<TreeNode *> thisLayer{t};
+    vector<TreeNode *> nextLayer;
+    while (!thisLayer.empty())
+    {
+        TreeNode *cur = thisLayer[0];
+        thisLayer.erase(thisLayer.begin());
+        if (cur == nullptr)
+        {
+            cout << " N";
+        }
+        else
+        {
+            cout << " " << cur->val;
+            nextLayer.push_back(cur->left);
+            nextLayer.push_back(cur->right);
+        }
+
+        if (thisLayer.empty())
+        {
+            thisLayer = nextLayer;
+            nextLayer.clear();
+            cout << endl;
+        }
+    }
+    delete t;
+}
